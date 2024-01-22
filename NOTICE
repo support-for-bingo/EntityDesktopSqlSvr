@@ -1,0 +1,6 @@
+support-for-bingo
+Copyright © 2021-2024 support-for-bingo
+
+このプロジェクトには、.NET Foundation and Contributorsのライブラリを呼び出すプログラムソースが含まれていますが
+オブジェクト形式ファイルはありません。組み合わせて使うsupport-for-bingoのソースのみです。
+https://github.com/dotnet/ef6プロジェクトは、.NET Foundation and Contributorsによって開発されています。
